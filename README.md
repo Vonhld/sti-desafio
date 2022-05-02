@@ -40,11 +40,11 @@ Para a resolução, a linguagem Python (3.9.7) foi utilizada, assim como as bibl
 
 * **Pandas**, para analisar e manipular o dataset dado.
 ```bash 
-  pip install pandas
+  pip install Pandas
 ```
 * **Flask**, para criação de um GUI utilizando o framework de Bootstrap.
 ```bash 
-  pip install pandas
+  pip install Flask
 ```
 
 #### Sobre os arquivos
