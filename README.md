@@ -55,16 +55,6 @@ Para a resolução, a linguagem Python (3.9.7) foi utilizada, assim como as bibl
 
 * **[base.py](base.py)** referente ao controlador que chama os métodos.
 
-* **[GUI.py](GUI.py)** referente a GUI
+* **[GUI.py](GUI.py)** referente a GUI, com o framework web utilizado.
 
-* **[template.html](templates/template.html)** referente ao framework web utilizando Bootstrap.
-
-* **aluno.py**, **curso.py** e **nota.py** referentes as classes utilizadas.
-
-* **trabalhaDados.py** referente ao carregamento e manipulação dos dados.
-
-* **base.py** referente ao controlador que chama os métodos.
-
-* **GUI.py** referente a GUI
-
-* **template.html** referente ao framework web utilizando Bootstrap.
+* **[template.html](templates/template.html)** referente ao template utilizando Bootstrap.
